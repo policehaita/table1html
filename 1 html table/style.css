@@ -1,0 +1,32 @@
+table,th,td,tr{
+    border: 2px solid black;
+    border-radius: 5px;
+    border-style: double;
+    border-collapse: collapse;
+    
+}
+
+.a{
+    background-color: darkslateblue;
+}
+
+.b{
+    background-color: #f0f0f0;
+}
+
+.c{
+    background-color: #f0f0f0;
+}
+
+.d{
+    background-color: #f0f0f0;
+
+}
+
+.e{
+    background-color: #f0f0f0;
+}
+
+.f{
+    background-color: #f0f0f0;
+}
